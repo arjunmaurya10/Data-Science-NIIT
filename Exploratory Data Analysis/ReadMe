@@ -1,0 +1,4 @@
+The EDA consists of two datasets which were given by N.I.I.T .
+Employee Attrition : The dataset was cleaned, processed and the nessecary features were extracted based on the bussiness requirements. ML models were used for Classification to analyse the reason for the Employees to Quit the company.
+Income Data : The dataset was cleaned, processed and the nessecary features were extracted based on the bussiness requirements. To analyze the reasuls ML model for Regression were used.
+  
